@@ -46,9 +46,6 @@ if ($_POST) {
   }
 }
 
-echo "<pre>";
-var_dump($arr);
-
 ?>
 <!DOCTYPE html>
 <html lang="ru">
